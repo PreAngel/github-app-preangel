@@ -1,7 +1,7 @@
 # Chatie
 
-[![Build Status](https://travis-ci.com/chatie/github-app-chatie.svg?branch=master)](https://travis-ci.com/chatie/github-app-chatie)
-[![Greenkeeper badge](https://badges.greenkeeper.io/chatie/github-app-chatie.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/preangel/github-app-preangel.svg?branch=master)](https://travis-ci.com/preangel/github-app-preangel)
+[![Greenkeeper badge](https://badges.greenkeeper.io/preangel/github-app-preangel.svg)](https://greenkeeper.io/)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -34,11 +34,11 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ### master
 
-### v0.0.1 Dec 31, 2019
+### v0.0.1 Jan 3, 2020
 
 1. Init from Probot: [Getting Started - Developing an app](https://probot.github.io/docs/development/)
-1. Deployed to Heroku at <https://github.chatie.io>
-1. Published Github App at <https://github.com/apps/chatie/>
+1. Deployed to Heroku at <https://github.pre-angel.com>
+1. Published Github App at <https://github.com/apps/preangel/>
 
 ## Author
 
