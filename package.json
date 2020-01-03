@@ -26,11 +26,11 @@
   },
   "dependencies": {
     "@chatie/eslint-config": "^0.8.1",
-    "@chatie/git-scripts": "^0.2.5",
     "file-box": "^0.8.27",
     "probot": "^9.5.3"
   },
   "devDependencies": {
+    "@chatie/git-scripts": "^0.2.5",
     "@types/jest": "^24.0.19",
     "@types/nock": "^11.1.0",
     "@types/node": "^13.1.0",
